@@ -15,7 +15,7 @@
 
 #### Jira
 <!-- Line separated list of relevant Jira ticket links -->
-https://ostmodern.atlassian.net/browse/< ticket_id >
+https://skylarkplatform.atlassian.net/browse/< ticket_id >
 
 #### Self-review
 * [ ] Changes self-reviewed
