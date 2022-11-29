@@ -17,38 +17,3 @@
 <!-- Line separated list of relevant Jira ticket links -->
 https://skylarkplatform.atlassian.net/browse/< ticket_id >
 
-#### Self-review
-* [ ] Changes self-reviewed
-
-#### Practical Tests Performed (Author)
-* < Fill this in or "None" >
-
-#### Practical Tests Performed (Reviewer)
-* < Fill this in or "None" >
-
-#### Automated Testing <!-- Delete this section if not relevant -->
-* [ ] Appropriate unit/regression/integration tests
-* [ ] Tests for negative cases
-
-#### Documentation
-* [ ] The PR title is in the format `[< csv_jira_ids >] < descriptive_title >`
-* [ ] Anything complex has docstrings/comments explaining the _"why"_
-* [ ] System complexity documented on Confluence (only for complex topics if appropriate)
-
-#### Standards & Practices
-* [x] [`pre-commit` tooling](https://github.com/ostmodern/ost-githooks) executed (if available)
-
-#### Data Migrations <!-- Delete this section if not relevant -->
-* [ ] No database locking migrations are included
-* [ ] Database downgrades are present for all upgrades and have been demonstrated (if appropriate/complex/feasible)
-* [ ] Old code is forward-compatible with all data migrations
-
-#### Backwards Compatibility <!-- Delete this section if not relevant -->
-<!-- Explain and document breaking changes -->
-* [ ] This change includes backwards incompatible changes.
-
-#### Post-release <!-- Delete this section if not relevant -->
-* [ ] Follow-up reminders for any post-release configs/actions created
-
-<!-- Document version 0.0.2 -->
-<!-- Document tracked under ostmodern/ost-githooks -->
