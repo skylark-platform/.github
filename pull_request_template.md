@@ -5,13 +5,9 @@
 <!-- Delete non-relevant lines -->
 * [x] Bugfix
 * [x] Feature
-* [x] Supporting material
-* [x] Code style update (formatting, renaming)
-* [x] Refactoring (no functional changes, no API changes)
+* [x] Refactoring
 * [x] Infrastructure
-* [x] Build related changes
-* [x] Documentation content changes
-* [x] Other (please describe): < description >
+* [x] Documentation
 
 #### Jira
 <!-- Line separated list of relevant Jira ticket links -->
